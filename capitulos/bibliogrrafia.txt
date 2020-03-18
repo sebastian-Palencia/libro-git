@@ -1,1 +1,2 @@
--Chacon,S. and Straub,B. Pro Git. Apress.
+-Scott Chacon and Ben Straub.Pro Gitts. Apress
+-Ryan Hodsoon
